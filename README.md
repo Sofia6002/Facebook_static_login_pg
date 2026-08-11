@@ -17,5 +17,5 @@ This project is a **frontend design practice only**.
 - No real logos or trademarks are used.
 - The form **does not** collect, store, or send any data.
 
- <img src="img/image.png" width="300">
+ <img src="image.png" width="300">
 
